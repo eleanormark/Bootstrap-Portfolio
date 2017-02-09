@@ -1,1 +1,1 @@
-include_once("Bootstrap-Basic-Portfolio"); ?> {}
+include_once("Bootstrap-Basic-Portfolio"); ?>
